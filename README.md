@@ -27,10 +27,13 @@ And I recommend you some websites for better understanding of JPEG.
 - [Impulse Adventure]
 - [Hex] (Online raw data viewer.)
 
-
+---
 ![image](https://github.com/heismelody/Codec/blob/master/Readme/jpegprocess.png)
+---
 ![image](https://github.com/heismelody/Codec/blob/master/Readme/JPEGbitstream.png)
+---
 ![image](https://github.com/heismelody/Codec/blob/master/Readme/jpegFlow.png)
+---
 ##### 2.MPEG2
 Please check this spec. for more information.This is the official standard(Maybe).
 >Recommendation H.262
@@ -40,9 +43,12 @@ Before you get started, I think this book is good for you.
 >h.264 and Mpeg-4  Video Compression 
 >Video coding for next-generation multimedia
 
-
+---
 ![image](https://github.com/heismelody/Codec/blob/master/Readme/MPEG2process.png)
+---
 ![image](https://github.com/heismelody/Codec/blob/master/Readme/MPEG2btitstream.png)
+---
+
 License
 ----
 
