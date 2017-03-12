@@ -24,8 +24,8 @@ Please check this spec. for more information.This is the official standard(Maybe
 >Digital compression and coding of continuous-tone still images
 
 And I recommend you some websites for better understanding of JPEG.
--[Impulse Adventure]
--[Hex] (Online raw data viewer.)
+- [Impulse Adventure]
+- [Hex] (Online raw data viewer.)
 
 
 ![image](https://github.com/heismelody/Codec/blob/master/Readme/jpegprocess.png)
